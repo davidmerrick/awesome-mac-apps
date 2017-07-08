@@ -8,3 +8,4 @@
 
 * [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
 * [MongoBooster](https://mongobooster.com/downloads): Mongo database manager.
+* [Charles Proxy](https://www.charlesproxy.com/): Allows you to man-in-the middle connections.
