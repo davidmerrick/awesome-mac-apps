@@ -7,3 +7,4 @@
 ## Development
 
 * [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
+* [MongoBooster](https://mongobooster.com/downloads): Mongo database manager.
