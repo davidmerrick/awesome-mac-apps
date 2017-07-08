@@ -9,6 +9,7 @@
 * [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
 * [MongoBooster](https://mongobooster.com/downloads): Mongo database manager.
 * [Charles Proxy](https://www.charlesproxy.com/): Allows you to man-in-the middle connections.
+* [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh): A substitute for the Bash shell that's awesome. I make use of the git shortcuts very frequently.
 
 ### IDE
 
