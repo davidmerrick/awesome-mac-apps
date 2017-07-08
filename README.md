@@ -4,6 +4,10 @@
 * [CDTo](https://github.com/jbtule/cdto): Terminal shortcut for Finder.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
 
+## Backup
+
+* [CrashPlan](https://www.crashplan.com/en-us/): Great solution for offsite backups.
+
 ## Development
 
 * [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
