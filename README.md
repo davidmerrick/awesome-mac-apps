@@ -20,3 +20,7 @@
 ### IDE
 
 * [JetBrains](https://www.jetbrains.com/): I'm a huge fan of everything JetBrains. Have used IntelliJ, PHPStorm, and WebStorm.
+
+## Reference
+
+* [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os): Very comprehensive list of good Mac apps for developers.
