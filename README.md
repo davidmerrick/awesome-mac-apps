@@ -17,7 +17,7 @@
 * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh): A substitute for the Bash shell that's awesome. I make use of the git shortcuts very frequently.
 * [Emmett](https://emmet.io/): Toolkit for web developers. Tools include LiveStyles for live reloading of CSS assets, and code that generates HTML with a simple syntax.
 * [Paw](https://paw.cloud/): Full-featured REST API testing app.
-* [Insomnia](Free, open-source REST API testing app): (Disclosure, haven't tried this one. But it looks good).
+* [Insomnia](https://insomnia.rest/): Free, open-source REST API testing app (Disclosure, haven't tried this one. But it looks good).
 
 ### IDE
 
