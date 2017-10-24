@@ -5,10 +5,12 @@
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12): Window manager.
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
+* [Witch](https://manytricks.com/witch/): Better Tab switcher.
 
 ## Backup
 
 * [CrashPlan](https://www.crashplan.com/en-us/): Great solution for offsite backups.
+* [Carbonite](https://www.carbonite.com/): Haven't actually used this, but have heard great things. Planning on switching to it for backups because CrashPlan is sunsetting their consumer line.
 
 ## Development
 
