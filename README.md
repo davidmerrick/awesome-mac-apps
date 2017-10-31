@@ -6,6 +6,7 @@
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
 * [Witch](https://manytricks.com/witch/): Better Tab switcher.
+* [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 
 ## Backup
 
