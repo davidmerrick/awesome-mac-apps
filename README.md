@@ -1,5 +1,6 @@
 ## Productivity
 
+* [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12): Best screenshot annotation tool I've found.
 * [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Alfred](https://www.alfredapp.com/): App Launcher. Also has handy workflows. My favorite is the [clipboard manager](https://www.alfredapp.com/help/features/clipboard/).
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12): Window manager.
