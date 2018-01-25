@@ -3,12 +3,14 @@
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12): Best screenshot annotation tool I've found.
 * [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Alfred](https://www.alfredapp.com/): App Launcher. Also has handy workflows. My favorite is the [clipboard manager](https://www.alfredapp.com/help/features/clipboard/).
+* [Dropzone](https://aptonic.com/): Menu bar that adds a drop menu for uploading/copying/moving files to a bunch of different services.
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 
-## Window management
+## Window management/UI improvements
 
+* [Bartender](https://www.macbartender.com/): Management for Mac menu bar apps.
 * [Divvy](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 * [Witch](https://manytricks.com/witch/): Better Tab switcher.
