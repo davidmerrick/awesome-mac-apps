@@ -3,6 +3,7 @@
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12): Best screenshot annotation tool I've found.
 * [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Alfred](https://www.alfredapp.com/): App Launcher. Also has handy workflows. My favorite is the [clipboard manager](https://www.alfredapp.com/help/features/clipboard/).
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/): Hold the ⌘ key to pop up a list of hotkeys for the current application.
 * [Dropzone](https://aptonic.com/): Menu bar that adds a drop menu for uploading/copying/moving files to a bunch of different services.
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
