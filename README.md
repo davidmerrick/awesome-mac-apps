@@ -14,6 +14,7 @@
 * [Bartender](https://www.macbartender.com/): Management for Mac menu bar apps.
 * [Divvy](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
+* [Popclip](https://geo.itunes.apple.com/nz/app/popclip/id445189367): Adds a context menu on text selection, similar to the functionality on iOS.
 * [Witch](https://manytricks.com/witch/): Better Tab switcher.
 
 ## Backup
