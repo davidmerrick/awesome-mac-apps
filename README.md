@@ -33,6 +33,7 @@
 * [Paw](https://paw.cloud/): Full-featured REST API testing app.
 * [Insomnia](https://insomnia.rest/): Free, open-source REST API testing app (Disclosure, haven't tried this one. But it looks good).
 * [iStatMenus](https://bjango.com/mac/istatmenus/): Surfaces useful machine stats like CPU, temperature, memory pressure, etc.
+* [imageoptim](https://imageoptim.com/mac): Utility that optimizes images for use in apps and on the web.
 * [CDTo](https://github.com/jbtule/cdto): Terminal shortcut for Finder.
 
 ### IDE
