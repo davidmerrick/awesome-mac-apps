@@ -9,6 +9,7 @@
 * [Hazel](https://www.noodlesoft.com/): Automated cleanup utility. Can watch folders for new files and run scripts when events occur.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
+* [Taskade](https://taskade.com/downloads): Team productivity made simple and fun.
 
 ## Window management/UI improvements
 
