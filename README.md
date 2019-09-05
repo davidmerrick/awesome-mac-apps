@@ -1,6 +1,7 @@
 ## Productivity
 
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12): Best screenshot annotation tool I've found.
+* [Bitbar](https://getbitbar.com): Put output from any script in the macOS task bar.
 * [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Alfred](https://www.alfredapp.com/): App Launcher. Also has handy workflows. My favorite is the [clipboard manager](https://www.alfredapp.com/help/features/clipboard/).
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/): Hold the ⌘ key to pop up a list of hotkeys for the current application.
