@@ -22,8 +22,7 @@
 
 ## Backup
 
-* [CrashPlan](https://www.crashplan.com/en-us/): Great solution for offsite backups.
-* [Carbonite](https://www.carbonite.com/): Haven't actually used this, but have heard great things. Planning on switching to it for backups because CrashPlan is sunsetting their consumer line.
+* [Backblaze](https://www.backblaze.com): Great solution for offsite backups.
 
 ## Development
 
