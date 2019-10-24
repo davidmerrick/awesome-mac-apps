@@ -41,6 +41,10 @@
 
 * [JetBrains](https://www.jetbrains.com/): I'm a huge fan of everything JetBrains. Have used IntelliJ, PHPStorm, and WebStorm.
 
+### Hardware
+
+* [SensibleSideButtons](https://sensible-side-buttons.archagon.net/): I use an Anker vertical mouse, which has 2 extra side buttons, and this allows me to make use of them as back/forward buttons for my browser.
+
 ## Reference
 
 * [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os): Very comprehensive list of good Mac apps for developers.
