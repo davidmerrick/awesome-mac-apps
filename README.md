@@ -20,6 +20,10 @@
 * [Popclip](https://geo.itunes.apple.com/nz/app/popclip/id445189367): Adds a context menu on text selection, similar to the functionality on iOS.
 * [Witch](https://manytricks.com/witch/): Better Tab switcher.
 
+## Sound
+
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic): Gives you granular control over the volume of individual apps.
+
 ## Backup
 
 * [Backblaze](https://www.backblaze.com): Great solution for offsite backups.
