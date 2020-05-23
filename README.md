@@ -33,13 +33,17 @@
 * [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
 * [MongoBooster](https://mongobooster.com/downloads): Mongo database manager.
 * [Charles Proxy](https://www.charlesproxy.com/): Allows you to man-in-the middle connections.
-* [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh): A substitute for the Bash shell that's awesome. I make use of the git shortcuts very frequently.
 * [Emmett](https://emmet.io/): Toolkit for web developers. Tools include LiveStyles for live reloading of CSS assets, and code that generates HTML with a simple syntax.
 * [Paw](https://paw.cloud/): Full-featured REST API testing app.
 * [Insomnia](https://insomnia.rest/): Free, open-source REST API testing app (Disclosure, haven't tried this one. But it looks good).
 * [iStatMenus](https://bjango.com/mac/istatmenus/): Surfaces useful machine stats like CPU, temperature, memory pressure, etc.
 * [imageoptim](https://imageoptim.com/mac): Utility that optimizes images for use in apps and on the web.
+
+### Terminal enhancements
+
 * [CDTo](https://github.com/jbtule/cdto): Terminal shortcut for Finder.
+* [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh): A substitute for the Bash shell that's awesome. I make use of the git shortcuts very frequently.
+* [HTTPie](https://httpie.org/): http client that's a nice upgrade from cURL. Supports JSON, syntax highlighting, plugins, and more.
 
 ### IDE
 
