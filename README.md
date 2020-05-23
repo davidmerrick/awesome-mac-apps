@@ -43,7 +43,7 @@
 
 * [CDTo](https://github.com/jbtule/cdto): Terminal shortcut for Finder.
 * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh): A substitute for the Bash shell that's awesome. I make use of the git shortcuts very frequently.
-* [HTTPie](https://httpie.org/): http client that's a nice upgrade from cURL. Supports JSON, syntax highlighting, plugins, and more.
+* [HTTPie](https://httpie.org/): http client that's a nice upgrade from cURL or wget. Supports JSON, syntax highlighting, plugins, and more.
 
 ### IDE
 
