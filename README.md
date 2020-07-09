@@ -31,14 +31,18 @@
 
 ## Development
 
-* [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
-* [MongoBooster](https://mongobooster.com/downloads): Mongo database manager.
 * [Charles Proxy](https://www.charlesproxy.com/): Allows you to man-in-the middle connections.
 * [Emmett](https://emmet.io/): Toolkit for web developers. Tools include LiveStyles for live reloading of CSS assets, and code that generates HTML with a simple syntax.
 * [Paw](https://paw.cloud/): Full-featured REST API testing app.
 * [Insomnia](https://insomnia.rest/): Free, open-source REST API testing app (Disclosure, haven't tried this one. But it looks good).
 * [iStatMenus](https://bjango.com/mac/istatmenus/): Surfaces useful machine stats like CPU, temperature, memory pressure, etc.
 * [imageoptim](https://imageoptim.com/mac): Utility that optimizes images for use in apps and on the web.
+
+### Databases
+
+* [MongoBooster](https://mongobooster.com/downloads): Mongo database manager.
+* [Sequel Pro](https://www.sequelpro.com/): User-friendly Mac database manager.
+* [TablePlus](https://tableplus.com/): Database manager that supports a wide variety of RDBs.
 
 ### Terminal enhancements
 
