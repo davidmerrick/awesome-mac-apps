@@ -1,17 +1,18 @@
 ## Productivity
 
+* [Alfred](https://www.alfredapp.com/): App Launcher. Also has handy workflows. My favorite is the [clipboard manager](https://www.alfredapp.com/help/features/clipboard/).
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12): Best screenshot annotation tool I've found.
 * [Bitbar](https://getbitbar.com): Put output from any script in the macOS task bar.
-* [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
-* [Alfred](https://www.alfredapp.com/): App Launcher. Also has handy workflows. My favorite is the [clipboard manager](https://www.alfredapp.com/help/features/clipboard/).
+* [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/): Hold the ⌘ key to pop up a list of hotkeys for the current application.
 * [Dropzone](https://aptonic.com/): Menu bar that adds a drop menu for uploading/copying/moving files to a bunch of different services.
+* [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Glyphfinder](https://www.glyphfinder.com/): Easy emoji and glyph search.
 * [Hazel](https://www.noodlesoft.com/): Automated cleanup utility. Can watch folders for new files and run scripts when events occur.
-* [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
-* [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 * [Keyboard Pilot](http://tinybird.com/mac/keyboard-pilot.html): Customize keyboard layouts based on which app you're using.
+* [Numi](https://numi.app/): Calculator app that processes natural language. 
+* [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 
 ## Window management/UI improvements
 
