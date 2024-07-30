@@ -8,14 +8,14 @@
 * [Dropzone](https://aptonic.com/): Menu bar that adds a drop menu for uploading/copying/moving files to a bunch of different services.
 * [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
-* [Glyphfinder](https://www.glyphfinder.com/): Easy emoji and glyph search.
 * [Hazel](https://www.noodlesoft.com/): Automated cleanup utility. Can watch folders for new files and run scripts when events occur.
-* [Keyboard Pilot](http://tinybird.com/mac/keyboard-pilot.html): Customize keyboard layouts based on which app you're using.
 * [Numi](https://numi.app/): Calculator app that processes natural language. 
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 
 ## Text/Clipboard
-* Alfred (mentioned above) has a great clipboard history manager.
+
+* [Keyboard Pilot](http://tinybird.com/mac/keyboard-pilot.html): Customize keyboard layouts based on which app you're using.
+* [Glyphfinder](https://www.glyphfinder.com/): Easy emoji and glyph search.
 * [PopClip](https://www.popclip.app/): Adds a bar that hovers above any text you select with many extensions, including sending the text in a prompt to ChatGPT, camel-casing or snake-casing, and much more.
 
 ## Window management/UI improvements
