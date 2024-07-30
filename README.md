@@ -5,12 +5,17 @@
 * [Bitbar](https://getbitbar.com): Put output from any script in the macOS task bar.
 * [Caffeine](https://caffeine.en.softonic.com/mac): Prevents Mac from sleeping.
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/): Hold the ⌘ key to pop up a list of hotkeys for the current application.
-* [Dropzone](https://aptonic.com/): Menu bar that adds a drop menu for uploading/copying/moving files to a bunch of different services.
+* [Dropzone](https://aptonic.com/): Menu bar that adds a drop menu for uploading/copying/moving files to a bunch of different services. Also works really well for AirDropping things.
 * [Fantastical](https://flexibits.com/fantastical): Full-featured calendar app with a quick-look icon that lives in the taskbar.
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Hazel](https://www.noodlesoft.com/): Automated cleanup utility. Can watch folders for new files and run scripts when events occur.
 * [Numi](https://numi.app/): Calculator app that processes natural language. 
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
+
+## File Utilities
+
+* [QSpace](https://qspace.awehunt.com/): A better Finder. Has support for multiple windows, workspaces, displays your location in the file system, and can connect to S3 or other cloud services.
+* [Transmit](https://panic.com/transmit/): My favorite file transfer client.
 
 ## Text/Clipboard
 
