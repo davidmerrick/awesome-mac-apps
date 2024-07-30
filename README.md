@@ -14,12 +14,15 @@
 * [Numi](https://numi.app/): Calculator app that processes natural language. 
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 
+## Text/Clipboard
+* Alfred (mentioned above) has a great clipboard history manager.
+* [PopClip](https://www.popclip.app/): Adds a bar that hovers above any text you select with many extensions, including sending the text in a prompt to ChatGPT, camel-casing or snake-casing, and much more.
+
 ## Window management/UI improvements
 
 * [Bartender](https://www.macbartender.com/): Management for Mac menu bar apps.
 * [Divvy](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
-* [Popclip](https://geo.itunes.apple.com/nz/app/popclip/id445189367): Adds a context menu on text selection, similar to the functionality on iOS.
 * [Witch](https://manytricks.com/witch/): Better Tab switcher.
 
 ## Sound
@@ -32,12 +35,15 @@
 
 ## Development
 
-* [Charles Proxy](https://www.charlesproxy.com/): Allows you to man-in-the middle connections.
+* [Charles Proxy](https://www.charlesproxy.com/): Allows you to man-in-the-middle network connections, including those from an iOS device.
 * [Emmett](https://emmet.io/): Toolkit for web developers. Tools include LiveStyles for live reloading of CSS assets, and code that generates HTML with a simple syntax.
-* [Paw](https://paw.cloud/): Full-featured REST API testing app.
-* [Insomnia](https://insomnia.rest/): Free, open-source REST API testing app (Disclosure, haven't tried this one. But it looks good).
 * [iStatMenus](https://bjango.com/mac/istatmenus/): Surfaces useful machine stats like CPU, temperature, memory pressure, etc.
 * [imageoptim](https://imageoptim.com/mac): Utility that optimizes images for use in apps and on the web.
+
+### REST Clients
+
+* [Paw](https://paw.cloud/): Full-featured REST API testing app.
+* [Insomnia](https://insomnia.rest/): Free, open-source REST API testing app (Disclosure, haven't tried this one. But it looks good).
 
 ### Databases
 
