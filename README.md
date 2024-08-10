@@ -44,6 +44,7 @@
 * [Emmett](https://emmet.io/): Toolkit for web developers. Tools include LiveStyles for live reloading of CSS assets, and code that generates HTML with a simple syntax.
 * [iStatMenus](https://bjango.com/mac/istatmenus/): Surfaces useful machine stats like CPU, temperature, memory pressure, etc.
 * [imageoptim](https://imageoptim.com/mac): Utility that optimizes images for use in apps and on the web.
+* [Boop](https://apps.apple.com/us/app/boop/id1518425043?mt=12): Great little utility for dealing with text. Formatting JSON, computing MD5 hashes, etc. Way better than pasting your company secrets into some random web app.
 
 ### REST Clients
 
