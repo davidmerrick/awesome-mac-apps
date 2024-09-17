@@ -11,6 +11,7 @@
 * [Hazel](https://www.noodlesoft.com/): Automated cleanup utility. Can watch folders for new files and run scripts when events occur.
 * [Numi](https://numi.app/): Calculator app that processes natural language. 
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
+* [Taskade](https://taskade.com/downloads): Team productivity made simple and fun.
 
 ## File Utilities
 
