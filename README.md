@@ -10,6 +10,7 @@
 * [Giphy Capture](https://giphy.com/apps/giphycapture): Create mp4s and gifs of screen recordings.
 * [Hazel](https://www.noodlesoft.com/): Automated cleanup utility. Can watch folders for new files and run scripts when events occur.
 * [Numi](https://numi.app/): Calculator app that processes natural language. 
+* [Orkas](https://orkas.ai/?source=gh_dmerrick): Open-source, local-first desktop AI workforce with a Commander coordinating specialist agents through one chat.
 * [ScreenFloat](https://itunes.apple.com/us/app/screenfloat-more-useful-screenshots/id414528154?mt=12): Take screenshots that float above other windows to keep information visible.
 
 ## File Utilities
