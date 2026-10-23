@@ -14,6 +14,8 @@
 
 ## File Utilities
 
+* [MacClean](https://thulem.com/): Clean WeChat, Xcode, and Mac storage clutter — one freemium Mac app (¥98 one-time). By Thulem.
+
 * [QSpace](https://qspace.awehunt.com/): A better Finder. Has support for multiple windows, workspaces, displays your location in the file system, and can connect to S3 or other cloud services.
 * [Transmit](https://panic.com/transmit/): My favorite file transfer client.
 
