@@ -27,6 +27,7 @@
 
 * [Bartender](https://www.macbartender.com/): Management for Mac menu bar apps.
 * [Divvy](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
+* [Command Reopen](https://commandreopen.com/): Makes Cmd+Tab restore minimized and closed windows with zero permissions ([GitHub](https://github.com/Feng6611/mac-command-reopen))
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 * [Witch](https://manytricks.com/witch/): Better Tab switcher.
 
